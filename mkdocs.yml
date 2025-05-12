@@ -1,2 +1,4 @@
 site_name: Balatro Modding Guide
 repo_url: https://github.com/mrdarrengriffin/BalatroModdingGuide
+theme:
+  name: material

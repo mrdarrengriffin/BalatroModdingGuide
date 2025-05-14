@@ -4,7 +4,7 @@
 When it comes to creating mods for Balatro, it can be a bit tricky, especially if you're not familiar with the game engine. This repo aims to provide a collection of guides, tips and tricks that will help you get started with your first mod.
 
 ## Getting started
-Everything can be found on the [wiki](https://github.com/mrdarrengriffin/BalatroModdingGuide/wiki)
+Everything can be found on the [docs](https://mrdarrengriffin.github.io/BalatroModdingGuide/)
 
 ## What is Balatro?
 
